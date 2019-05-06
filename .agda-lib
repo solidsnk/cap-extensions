@@ -1,0 +1,5 @@
+name: seccomp
+include:
+  .
+  ./src/
+  ./lib/agda-stdlib/src/
